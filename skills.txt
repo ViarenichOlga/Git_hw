@@ -1,0 +1,6 @@
+Git.
+Js.
+Ts.
+Playwright.
+Docker.
+Cucumber.
